@@ -6,10 +6,13 @@
 
 - 👋 Hi, I’m @Maustz
 - 🌱 I’m currently learning in java, and python
-
 - 📫 How to reach me: Contact me in mantillaaugustu@gmail.com
+
+![qwe](https://github.com/Maustz/Maustz/assets/142653952/17617e0d-cedc-48c6-a9bd-ca2ec0e83ba8)
+
 
 <!---
 Maustz/Maustz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
