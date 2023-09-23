@@ -10,16 +10,13 @@ I'm Augustu III E. Mantilla, a passionate and curious individual currently in my
 - 📫 How to reach me: Contact me in mantillaaugustu@gmail.com
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Maustz](https://github.com/Maustz/github-profile-trophy)
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Maustz&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Maustz&langs_count=5&theme=tokyonight)]()
 
 
 
 
-}
 
-updateStats();
 
 
 <!---
