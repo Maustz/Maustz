@@ -9,9 +9,13 @@ I'm Augustu III E. Mantilla, a passionate and curious individual currently in my
 - 🌱 I’m currently learning in java, and python
 - 📫 How to reach me: Contact me in mantillaaugustu@gmail.com
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maustz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-![qwe](https://github.com/Maustz/Maustz/assets/142653952/17617e0d-cedc-48c6-a9bd-ca2ec0e83ba8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Maustz](https://github.com/Maustz/github-profile-trophy)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Maustz&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Maustz&langs_count=5&theme=tokyonight)]()
+
+
+
 
 }
 
